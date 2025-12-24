@@ -194,9 +194,10 @@
 ## 📬 Let's Connect!
 
 <div align="center">
-  
-  ### ✨ Let's build something amazing together!
-  
+  <h3 style="margin: 10px 0; color: #ff00e3;">
+    ✨ Let's build something amazing together!
+  </h3>
+
   <table>
     <tr>
       <td>
@@ -216,11 +217,10 @@
       </td>
     </tr>
   </table>
-  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Let%27s%20Create%20Something%20Incredible%21&fontSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Let%27s%20Create%20Something%20Incredible%21&fontSize=22&fontColor=ff00e3" />
 </div>
