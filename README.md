@@ -128,10 +128,12 @@
   </table>
 </div>
 
-<!-- Trophies -->
+<!-- GitHub Trophies (Reliable Method) -->
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=faisalalamdev&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=faisalalamdev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
